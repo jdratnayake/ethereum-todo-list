@@ -19,6 +19,7 @@
     "chai-bignumber": "^2.0.2",
     "lite-server": "^2.3.0",
     "nodemon": "^1.17.3",
+    "solc": "^0.5.0",
     "truffle": "5.0.2",
     "truffle-contract": "3.0.6"
   }

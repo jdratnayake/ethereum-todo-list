@@ -1,0 +1,7 @@
+1. Open Ganache
+2. Run "truffle compile" in the terminal
+3. Run "truffle migrate --reset" command
+4. Start the lite server [npm run dev]
+5. Configure MetaMask network into local network
+6. Get first appeared account's private key and import new account to the MetaMask by using that private key
+7. [Optional] we can do testing using "truffle test" command
