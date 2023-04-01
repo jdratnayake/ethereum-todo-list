@@ -6,7 +6,7 @@ This is a to-do list built on Ethereum smart contracts that is developed using t
 
 ---
 
-### Ganache Personal Blockchain
+### Ganache Personal BlockchainP
 
 This is a personal blockchain that can be used to mimic the behavior of a public blockchain. It will allow you to deploy smart contracts, develop applications, and run tests.
 
