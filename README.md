@@ -1,6 +1,6 @@
 ## Description
 
-This is a to-do list built on Ethereum smart contracts that is developed using the Solidity programming language. I built this application by following a tutorial on YouTube. The tutorial can be found at: [Video](https://www.youtube.com/watch?v=coQ5dg8wM2o)
+This is a to-do list application built on Ethereum smart contracts and developed using the Solidity programming language. I built this application by following a tutorial on YouTube. The tutorial can be found at: [Video](https://www.youtube.com/watch?v=coQ5dg8wM2o)
 
 ## Technologies
 
